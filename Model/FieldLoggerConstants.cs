@@ -1,4 +1,4 @@
-﻿namespace FruitMachine.Model
+﻿namespace CricketFieldLogger.Model
 {
     public class FieldLoggerConstants
     {

@@ -1,12 +1,11 @@
 using CricketFieldLogger.Helper;
-using FruitMachine.Model;
+using CricketFieldLogger.Model;
 using System.Text.Json;
 
 namespace CricketFieldLogger
 {
     public partial class FieldLoggerFrm : Form
     {
-
         public List<FieldersFormation> fieldersFormation;
 
         public FieldLoggerFrm()
@@ -17,8 +16,15 @@ namespace CricketFieldLogger
                 ControlMover.Init(this.FielderLbl[i]);
             }
         }
-
-        private void FieldFormation_1_Click(object sender, EventArgs e)
+        private void FielderLbl_Move(object sender, EventArgs e)
+        {
+            fieldersFormation = new List<FieldersFormation>();
+            for (int i = 0; i < FieldLoggerConstants.Number_Of_Fielders; i++)
+            {
+                fieldersFormation.Add(new FieldersFormation(fielderId: i + 1, leftLocation: FielderLbl[i].Left, topLocation: FielderLbl[i].Top));
+            }
+        }
+        private void Seamer_Six_By_Four_btn_Click(object sender, EventArgs e)
         {
             fieldersFormation = new List<FieldersFormation>();
             for (int i = 0; i < FieldLoggerConstants.Number_Of_Fielders; i++)
@@ -27,7 +33,7 @@ namespace CricketFieldLogger
                 {
                     case 0:
                         FielderLbl[i].Left = 263;
-                        FielderLbl[i].Top = 230;
+                        FielderLbl[i].Top = 210;
                         break;
                     case 1:
                         FielderLbl[i].Left = 172;
@@ -66,15 +72,15 @@ namespace CricketFieldLogger
                         FielderLbl[i].Top = 304;
                         break;
                     case 10:
-                        FielderLbl[i].Left = 263;
-                        FielderLbl[i].Top = 310;
+                        FielderLbl[i].Left = 260;
+                        FielderLbl[i].Top = 350;
                         break;
                 }
                 fieldersFormation.Add(new FieldersFormation(fielderId: i + 1, leftLocation: FielderLbl[i].Left, topLocation: FielderLbl[i].Top));
             }
         }
 
-        private void FieldFormation_2_Click(object sender, EventArgs e)
+        private void Seamer_Five_By_Four_btn_Click(object sender, EventArgs e)
         {
             fieldersFormation = new List<FieldersFormation>();
             for (int i = 0; i < FieldLoggerConstants.Number_Of_Fielders; i++)
@@ -122,19 +128,21 @@ namespace CricketFieldLogger
                         FielderLbl[i].Top = 304;
                         break;
                     case 10:
-                        FielderLbl[i].Left = 263;
-                        FielderLbl[i].Top = 310;
+                        FielderLbl[i].Left = 260;
+                        FielderLbl[i].Top = 350;
                         break;
                 }
                 fieldersFormation.Add(new FieldersFormation(fielderId: i+1,leftLocation: FielderLbl[i].Left, topLocation: FielderLbl[i].Top));
             }
         }
-
         private void SaveField_Click(object sender, EventArgs e)
         {
             File.WriteAllText(FieldLoggerConstants.Cricket_Directory + FieldLoggerConstants.Field_Directory 
                 + FieldLoggerConstants.Field_Formation_File, JsonSerializer.Serialize(fieldersFormation));
         }
-
+        private void ExitApplication_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
     }
 }
