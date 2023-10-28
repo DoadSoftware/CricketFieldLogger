@@ -13,6 +13,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="Page4Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page3Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page2Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page1Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Properties\Resources.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jaber\\Projects\\Visual Studio C#\\CricketFieldLogger\\CricketFieldLogger.csproj": {}
+    "D:\\CricketFieldLogger\\CricketFieldLogger.csproj": {}
   },
   "projects": {
-    "C:\\Jaber\\Projects\\Visual Studio C#\\CricketFieldLogger\\CricketFieldLogger.csproj": {
+    "D:\\CricketFieldLogger\\CricketFieldLogger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jaber\\Projects\\Visual Studio C#\\CricketFieldLogger\\CricketFieldLogger.csproj",
+        "projectUniqueName": "D:\\CricketFieldLogger\\CricketFieldLogger.csproj",
         "projectName": "CricketFieldLogger",
-        "projectPath": "C:\\Jaber\\Projects\\Visual Studio C#\\CricketFieldLogger\\CricketFieldLogger.csproj",
-        "packagesPath": "C:\\Users\\ShaikhJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Jaber\\Projects\\Visual Studio C#\\CricketFieldLogger\\obj\\",
+        "projectPath": "D:\\CricketFieldLogger\\CricketFieldLogger.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\CricketFieldLogger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ShaikhJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/RegentsTechAndTransformation/BowieG/_packaging/Regents_Packages_Feed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
@@ -65,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

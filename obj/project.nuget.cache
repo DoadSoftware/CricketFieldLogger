@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NPVlxXWrfRuexKyOHHIyeTOiewFIMoujGfSAWmiOgl8xiTvJ63tN3g2oDqXHeKpj6cyktXiiO8slWWKXIDDouA==",
+  "dgSpecHash": "MOnsrSMOrTDJvLZWa70iUpziq1U6zoTGykfNFeW285262HwW1Xgpr+xShzXl6QY2lXozojsDSLmckAHAXw66lg==",
   "success": true,
-  "projectFilePath": "C:\\Jaber\\Projects\\Visual Studio C#\\CricketFieldLogger\\CricketFieldLogger.csproj",
+  "projectFilePath": "D:\\CricketFieldLogger\\CricketFieldLogger.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ShaikhJ\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
