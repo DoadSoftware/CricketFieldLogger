@@ -1,0 +1,142 @@
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.exe
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.deps.json
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.runtimeconfig.json
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.dll
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.pdb
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.AssemblyReference.cache
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.GenerateResource.cache
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfoInputs.cache
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfo.cs
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.CoreCompileInputs.cache
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.dll
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\refint\CricketFieldLogger.dll
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.pdb
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.genruntimeconfig.cache
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\ref\CricketFieldLogger.dll
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Properties.Resources.resources
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.FieldLoggerFrm.resources
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Jaber\Projects\Visual Studio C#\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.CopyComplete
+C:\DOAD\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.exe
+C:\DOAD\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.deps.json
+C:\DOAD\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.runtimeconfig.json
+C:\DOAD\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.dll
+C:\DOAD\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.pdb
+C:\DOAD\CricketFieldLogger\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.AssemblyReference.cache
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.FieldLoggerFrm.resources
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Properties.Resources.resources
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.GenerateResource.cache
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfoInputs.cache
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfo.cs
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.CoreCompileInputs.cache
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.CopyComplete
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.dll
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\refint\CricketFieldLogger.dll
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.pdb
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.genruntimeconfig.cache
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\ref\CricketFieldLogger.dll
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page1Frm.resources
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page2Frm.resources
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page3Frm.resources
+C:\DOAD\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page4Frm.resources
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.dll
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\refint\CricketFieldLogger.dll
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.pdb
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.AssemblyReference.cache
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.FieldLoggerFrm.resources
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page1Frm.resources
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page2Frm.resources
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page3Frm.resources
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page4Frm.resources
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Properties.Resources.resources
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.GenerateResource.cache
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfoInputs.cache
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfo.cs
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.CoreCompileInputs.cache
+D:\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.exe
+D:\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.deps.json
+D:\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.runtimeconfig.json
+D:\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.dll
+D:\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.pdb
+D:\CricketFieldLogger\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.CopyComplete
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.genruntimeconfig.cache
+D:\CricketFieldLogger\obj\Debug\net6.0-windows\ref\CricketFieldLogger.dll
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.AssemblyReference.cache
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.FieldLoggerFrm.resources
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page1Frm.resources
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page2Frm.resources
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page3Frm.resources
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Page4Frm.resources
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.Properties.Resources.resources
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.GenerateResource.cache
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfoInputs.cache
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfo.cs
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.CoreCompileInputs.cache
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.sourcelink.json
+C:\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.exe
+C:\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.deps.json
+C:\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.runtimeconfig.json
+C:\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.dll
+C:\CricketFieldLogger\bin\Debug\net6.0-windows\CricketFieldLogger.pdb
+C:\CricketFieldLogger\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketF.C6D2908A.Up2Date
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.dll
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\refint\CricketFieldLogger.dll
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.pdb
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\CricketFieldLogger.genruntimeconfig.cache
+C:\CricketFieldLogger\obj\Debug\net6.0-windows\ref\CricketFieldLogger.dll
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.AssemblyReference.cache
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.FieldLoggerFrm.resources
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.Page1Frm.resources
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.Page2Frm.resources
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.Page3Frm.resources
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.Page4Frm.resources
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.Properties.Resources.resources
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.GenerateResource.cache
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfoInputs.cache
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfo.cs
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.CoreCompileInputs.cache
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.sourcelink.json
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.dll
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\refint\CricketFieldLogger.dll
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.pdb
+C:\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\CricketFieldLogger.exe
+C:\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\CricketFieldLogger.deps.json
+C:\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\CricketFieldLogger.runtimeconfig.json
+C:\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\CricketFieldLogger.dll
+C:\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\CricketFieldLogger.pdb
+C:\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketF.C6D2908A.Up2Date
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.genruntimeconfig.cache
+C:\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\ref\CricketFieldLogger.dll
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\CricketFieldLogger.exe
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\CricketFieldLogger.deps.json
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\CricketFieldLogger.runtimeconfig.json
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\CricketFieldLogger.dll
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\CricketFieldLogger.pdb
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.FieldLoggerFrm.resources
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.Page1Frm.resources
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.Page2Frm.resources
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.Page3Frm.resources
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.Page4Frm.resources
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.Properties.Resources.resources
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.AssemblyInfo.cs
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.csproj.CopyComplete
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.dll
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\refint\CricketFieldLogger.dll
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.pdb
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\CricketFieldLogger.genruntimeconfig.cache
+C:\Users\HP\Downloads\CricketFieldLogger - Testing\obj\Debug\net6.0-windows\ref\CricketFieldLogger.dll

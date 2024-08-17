@@ -1,0 +1,6 @@
+C:\Users\Moham\Desktop\PLOTTER\CricketFieldLogger.exe
+C:\Users\Moham\Desktop\PLOTTER\CricketFieldLogger.dll
+C:\Users\Moham\Desktop\PLOTTER\CricketFieldLogger.deps.json
+C:\Users\Moham\Desktop\PLOTTER\CricketFieldLogger.runtimeconfig.json
+C:\Users\Moham\Desktop\PLOTTER\CricketFieldLogger.pdb
+C:\Users\Moham\Desktop\PLOTTER\Newtonsoft.Json.dll

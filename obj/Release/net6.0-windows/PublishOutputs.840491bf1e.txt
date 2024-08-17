@@ -1,0 +1,6 @@
+C:\Users\Moham\Desktop\exe\CricketFieldLogger.exe
+C:\Users\Moham\Desktop\exe\CricketFieldLogger.dll
+C:\Users\Moham\Desktop\exe\CricketFieldLogger.deps.json
+C:\Users\Moham\Desktop\exe\CricketFieldLogger.runtimeconfig.json
+C:\Users\Moham\Desktop\exe\CricketFieldLogger.pdb
+C:\Users\Moham\Desktop\exe\Newtonsoft.Json.dll

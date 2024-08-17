@@ -1,0 +1,6 @@
+D:\CricketFieldLogger\bin\Release\net6.0-windows\publish\CricketFieldLogger.exe
+D:\CricketFieldLogger\bin\Release\net6.0-windows\publish\CricketFieldLogger.dll
+D:\CricketFieldLogger\bin\Release\net6.0-windows\publish\CricketFieldLogger.deps.json
+D:\CricketFieldLogger\bin\Release\net6.0-windows\publish\CricketFieldLogger.runtimeconfig.json
+D:\CricketFieldLogger\bin\Release\net6.0-windows\publish\CricketFieldLogger.pdb
+D:\CricketFieldLogger\bin\Release\net6.0-windows\publish\Newtonsoft.Json.dll
