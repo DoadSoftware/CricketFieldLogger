@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Downloads\\CricketFieldLogger - Testing\\CricketFieldLogger.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Downloads\\CricketFieldLogger\\CricketFieldLogger.csproj",
       "projectName": "CricketFieldLogger",
-      "projectPath": "C:\\Users\\HP\\Downloads\\CricketFieldLogger - Testing\\CricketFieldLogger.csproj",
+      "projectPath": "C:\\Users\\HP\\Downloads\\CricketFieldLogger\\CricketFieldLogger.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Downloads\\CricketFieldLogger - Testing\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Downloads\\CricketFieldLogger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -25,6 +25,7 @@ namespace CricketFieldLogger
             {
                 ControlMover.Init(this.FielderLbl[i]);
             }
+
         }
         private void FielderLbl_Move(object sender, EventArgs e)
         {
@@ -760,24 +761,6 @@ namespace CricketFieldLogger
         {
             new Page4Frm().Show();
         }
-
-        //textbox_Click
-        private void textbox_Click(object sender, EventArgs e)
-        {
-            string ipAddress = textBox2.Text.Trim();
-
-            if (!string.IsNullOrEmpty(ipAddress) && !ipAddress.Equals("localhost", StringComparison.OrdinalIgnoreCase))
-            {
-                FieldLoggerConstants.Cricket_Directory = "\\\\" + ipAddress + "\\c\\Sports\\Cricket\\Fielder\\";
-                textBox2.BackColor = Color.LightGreen; 
-                textBox2.ForeColor = Color.Black;
-                textBox2.Text = ipAddress;
-                textBox2.Font = new Font(textBox2.Font.FontFamily, textBox2.Font.Size + 2, FontStyle.Regular);
-
-                MessageBox.Show("Successfully connected to "+ FieldLoggerConstants.Cricket_Directory);
-            }
-            SaveFile();
-        }
         void SetValue(string value)
         {
             if (fieldersData.BowlingEnd != value)
@@ -1037,10 +1020,7 @@ namespace CricketFieldLogger
 
         private void ExitApplication_Click(object sender, EventArgs e)
         {
-            
-
             this.Close();
-            //Environment.Exit(0);
         }
         private void SaveFile()
         {
@@ -1245,5 +1225,6 @@ namespace CricketFieldLogger
             }
 
         }
-    }
+
+        }
 }

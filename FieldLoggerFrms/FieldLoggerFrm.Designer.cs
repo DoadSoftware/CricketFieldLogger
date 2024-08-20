@@ -47,10 +47,8 @@ namespace CricketFieldLogger
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
-            label4 = new Label();
             bowlingEnd = new Label();
             textBox1 = new TextBox();
-            textBox2 = new TextBox();
             checkBox1 = new CheckBox();
             checkBox2 = new CheckBox();
             groupBox1 = new GroupBox();
@@ -66,7 +64,6 @@ namespace CricketFieldLogger
             groupBox2 = new GroupBox();
             Swap = new Button();
             SaveField = new Button();
-            ip = new Button();
             ExitApplication = new Button();
             groupBox3 = new GroupBox();
             Page_1 = new Button();
@@ -89,55 +86,25 @@ namespace CricketFieldLogger
             FieldLoggerPicBox.Size = new Size(515, 522);
             FieldLoggerPicBox.TabStop = false;
 
-            //lable4
-            label4.AutoSize = true;
-            label4.BackColor = Color.Green;
-            label4.ForeColor = Color.White;
-            label4.Location = new Point(12, 540); 
-            label4.Name = "label4";
-            label4.Size = new Size(80, 30);
-            label4.Text = "ServerIP";
 
-            // TextBox setup
-            textBox2.AutoSize = false; 
-            textBox2.BackColor = Color.White;
-            textBox2.ForeColor = Color.Black;
-            textBox2.Location = new Point(100, 537); 
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(173, 30); 
-            textBox2.Text = "";
-
-            // Button setup
-            ip.Location = new Point(280, 537); 
-            ip.Name = "ip";
-            ip.Size = new Size(50, 32); 
-            ip.TabIndex = 0;
-            ip.Text = "&Save";
-            ip.UseVisualStyleBackColor = false; 
-            ip.BackColor = Color.Blue; 
-            ip.ForeColor = Color.White; 
-            ip.Click += textbox_Click;
-
-            // 
             bowlingEnd.AutoSize = true;
             bowlingEnd.BackColor = Color.DeepSkyBlue;
             label1.ForeColor = Color.White;
-            bowlingEnd.Location = new Point(330, 537);
+            bowlingEnd.Location = new Point(100, 537);
             bowlingEnd.Name = "bowlingEnd";
-            bowlingEnd.Size = new Size(173, 5);
+            bowlingEnd.Size = new Size(173, 20);
             bowlingEnd.Text = "Bowling End";
-
+            bowlingEnd.Font = new Font(bowlingEnd.Font.FontFamily, bowlingEnd.Font.Size + 2, FontStyle.Bold);
+           
             comboBox.AutoSize = false;
             comboBox.BackColor = Color.White;
             comboBox.ForeColor = Color.Black;
-            comboBox.Location = new Point(430, 537); // Adjusted to be in line with bowlingEnd
-            comboBox.Size = new Size(63, 30); // Adjusted size
+            comboBox.Location = new Point(240, 537); 
+            comboBox.Size = new Size(63, 30); 
             comboBox.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBox.DrawMode = DrawMode.OwnerDrawVariable;
             comboBox.Items.AddRange(new object[] { "Near", "Far" });
             comboBox.SelectedItem = "Near";
-
-            // Handle ComboBox drawing and selection
             comboBox.DrawItem += (sender, e) =>
             {
                 if (e.Index >= 0)
@@ -148,13 +115,12 @@ namespace CricketFieldLogger
                         e.Font,
                         Brushes.Black,
                         e.Bounds.Left,
-                        e.Bounds.Top + 5 // Adjust spacing here
+                        e.Bounds.Top + 5 
                     );
                     e.DrawFocusRectangle();
                 }
             };
 
-            // Handle selection change
             comboBox.SelectedIndexChanged += (sender, e) =>
             {
                 var selectedItem = ((ComboBox)sender).SelectedItem?.ToString();
@@ -164,11 +130,10 @@ namespace CricketFieldLogger
                 }
             };
 
-            // Adjust dropdown width
             comboBox.DropDown += (sender, e) =>
             {
                 ComboBox cb = (ComboBox)sender;
-                cb.DropDownWidth = cb.Width + 20; // Adjust dropdown width as needed
+                cb.DropDownWidth = cb.Width + 20; // Adjust dropdown width 
             };
 
             // 
@@ -566,9 +531,6 @@ namespace CricketFieldLogger
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(textBox1);
-            Controls.Add(label4);
-            Controls.Add(ip);
-            Controls.Add(textBox2);
             Controls.Add(checkBox1);
             Controls.Add(checkBox2);
             this.Controls.Add(comboBox);

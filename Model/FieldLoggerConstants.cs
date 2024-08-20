@@ -12,8 +12,8 @@
          public static readonly string? Field_Formation4_File = "FielderFormation_4.JSON";
          public static readonly int Number_Of_Fielders = 11;
          public static string BowlingEnd = "Near";
-
-        public static readonly string rhb_img = @"C:\Sports\Cricket\Fielder\Images\wagon_rhb.jpeg";
+         public static Boolean connected = false;
+         public static readonly string rhb_img = @"C:\Sports\Cricket\Fielder\Images\wagon_rhb.jpeg";
          public static readonly string lhb_img = @"C:\Sports\Cricket\Fielder\Images\wagon_lhb.jpeg";
 
         /* public static readonly string? rhb_img = @"\\10.100.2.50\\\c\\Sports\\Cricket\\Fielder\\Images\\wagon_rhb.jpeg";
